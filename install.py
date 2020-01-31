@@ -7,14 +7,14 @@ No = ["n", "N", "No", "no"]
 class hias():
 	def Jack():
 		print ("=========================================================")
-		print ("|          github : mrzefian@github.com        |")
-		print ("|	    					     |")
+		print ("|          github : mrzefian@github.com                 |")
+		print ("|	    					        |")
 		print ("|		   ZefianAlfian TOOLS   		|")
-		print ("|	    					     |") 
+		print ("|	    					        |") 
 		print ("|            gmail : zefianalfian@anyloun.rf.gd         |")
-		print ("|	    					     |")
-    print ("|        Credits : aldifortuna18@gmail.com         |")
-    print ("|	    					     |")
+		print ("|	    					        |")
+                print ("|        Credits : aldifortuna18@gmail.com              |")
+                print ("|	    					        |")
 		print ("=========================================================")
 	def buy():
 		print ("================Beli Untuk Versi Premium=============")
