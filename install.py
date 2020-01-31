@@ -12,8 +12,7 @@ class hias():
 		print ("|		   ZefianAlfian TOOLS   		|")
 		print ("|	    					        |") 
 		print ("|            gmail : zefianalfian@anyloun.rf.gd         |")
-		print ("|	    					        |")
-                print ("|        Credits : aldifortuna18@gmail.com              |")
+		print ("|	     credits : aldifortuna18@gmail.com	        |")
                 print ("|	    					        |")
 		print ("=========================================================")
 	def buy():
